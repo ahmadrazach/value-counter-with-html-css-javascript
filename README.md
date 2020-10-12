@@ -1,2 +1,2 @@
 # value-counter-with-html-css-javascript
-Created with CodeSandbox
+Preview here: https://value-counter.vercel.app/
